@@ -1,6 +1,6 @@
 Name: Reports
 Id: g=4620ef69db19c983a80c7f4b3385d58e
-Type: FolderType
+Type: ReportsCategoryFolder
 Children:
 - Name: ReportStyleSheet1
   Id: g=948d3039bf1bb1313ee4ffadc307a299

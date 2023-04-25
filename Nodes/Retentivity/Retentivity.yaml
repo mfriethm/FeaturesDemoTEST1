@@ -1,6 +1,6 @@
 Name: Retentivity
 Id: g=5f7a1338e568bec6eeab402071cde3be
-Type: FolderType
+Type: RetentivityCategoryFolder
 Children:
 - Name: Users
   Id: g=0d8c072dbe502e277743eeefb0ea5d68

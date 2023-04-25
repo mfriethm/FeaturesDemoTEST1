@@ -1,6 +1,6 @@
 Name: Loggers
 Id: g=d2a6cbe66db2cfa22efa885de251dc51
-Type: FolderType
+Type: LoggersCategoryFolder
 Children:
 - Name: AlarmsEventLogger
   Id: g=d223ccc9cf8a6e138c0c28e7ede9f7a6

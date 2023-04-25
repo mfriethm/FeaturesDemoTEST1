@@ -1,6 +1,6 @@
 Name: Recipes
 Id: g=9331712e3d1d15599c94b314a7d8cf45
-Type: FolderType
+Type: RecipesCategoryFolder
 Children:
 - Name: StyleRecipeSchema
   Id: g=82183d818998d06d0c8548627db417dd

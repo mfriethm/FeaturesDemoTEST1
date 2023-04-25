@@ -1,6 +1,6 @@
 Name: NetLogic
 Id: g=0c58c11a5c3ebc6532ea8bf6286ccc12
-Type: FolderType
+Type: NetLogicCategoryFolder
 Children:
 - Name: EmailSenderLogic
   Id: g=332f12f4f3b7495aca8d48232f5dcc11
